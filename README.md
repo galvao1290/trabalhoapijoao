@@ -22,12 +22,18 @@ Utilize o comando "code ." para abrir o Visual Studio Code (VSCode) com todos os
 Navegue pelos seguintes arquivos e faça as alterações necessárias:
 
 app/Http/Controllers/TaskController.php
+
 database/migrations/2023_06_27_221132_create_tasks_table.php
+
 routes/api.php
+
 routes/web.php
+
 Copie o arquivo ".env.example" novamente e renomeie-o para ".env". Abra o terminal no VSCode pressionando "CTRL+' " e execute o comando "composer install" para baixar as dependências do projeto.
 
+
 Inicie o XAMPP e inicie os serviços do Apache e MySQL.
+
 
 No terminal, execute os comandos "php artisan migrate" e "php artisan serve" para iniciar o servidor.
 
