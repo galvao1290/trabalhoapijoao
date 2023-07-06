@@ -21,13 +21,13 @@ Utilize o comando "code ." para abrir o Visual Studio Code (VSCode) com todos os
 
 Navegue pelos seguintes arquivos e faça as alterações necessárias:
 
-app/Http/Controllers/TaskController.php
+-app/Http/Controllers/TaskController.php
                    
-database/migrations/2023_06_27_221132_create_tasks_table.php
+-database/migrations/2023_06_27_221132_create_tasks_table.php
 
-routes/api.php
+-routes/api.php
 
-routes/web.php
+-routes/web.php
 
 Copie o arquivo ".env.example" novamente e renomeie-o para ".env". Abra o terminal no VSCode pressionando "CTRL+' " e execute o comando "composer install" para baixar as dependências do projeto.
 
