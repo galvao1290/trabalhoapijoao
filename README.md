@@ -32,4 +32,6 @@ No terminal, execute os comandos "php artisan migrate" e "php artisan serve" par
 Abra o Postman e crie uma nova collection. Adicione as requests necessárias para criar as funções da API. Para obter mais detalhes sobre como usar o Postman, consulte o vídeo abaixo.
 
 Certifique-se de seguir as instruções e os passos demonstrados no vídeo mencionado para usar o Postman corretamente e interagir com a API.
+
+
 link do video: https://youtu.be/HiQycu9LVFQ
