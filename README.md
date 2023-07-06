@@ -1,4 +1,6 @@
-# trabalho api joao
+# Trabalho para Conclusão da Disciplina Criação de API Rest Básica com PHP
+
+
 # Aqui está uma forma alternativa de expressar a criação de uma API REST básica utilizando PHP e um banco de dados MySQL:
 
 Implementar uma API REST simples utilizando PHP e um banco de dados MySQL.
